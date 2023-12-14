@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="377.28"
+   height="147.84"
+   viewBox="0 0 377.28 147.84"
+   sodipodi:docname="nest-19.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="scale(0.33413427)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="matrix(0.33413427,0,0,0.33413427,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-18.375,-23)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="matrix(0.33413427,0,0,0.33413427,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-41.40625,-91)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-65.453125,-113)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 1179.1666 V 460.89255 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-55.4375,-134)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="377.28"
+       height="147.84"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 394 V 154 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95769878)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 391 V 31 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95769878,0,0,0.95769878,0.47884939,0.47884939)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,17.597892,22.027293)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.999023 23.009766 32.009766 37.010742 42.011719 58.68457 68.695312 78.706055 87.706055 96.706055 100.14258 109.14258 114.14355 125.13867 135.14941 145.16016 150.16113 160.17188 166.16602 176.17676 181.17773 192.17285 202.18359 208.17773 213.17871 225.18457 231.17871 244.17773 254.18848 269.18262 284.17676 294.1875 300.18164 309.18164 319.19238 323.20898 335.21484 345.22559"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Next Weeks's Feature For E-Commerce App</tspan></text>
+    <path
+       id="path6"
+       d="m 36,61 h 320 v 90 H 36 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95769878,0,0,0.95769878,0.47884939,0.47884939)"
+       clip-path="url(#clipPath7)" />
+    <g
+       id="g7" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,39.655114,87.151465)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.005859 16.004883 20.003906 25.004883 35.015625 45.026367 50.027344 54.026367 63.026367 72.026367 82.037109 87.038086 91.037109 101.04785 111.05859 120.05859 125.05957 134.05957 144.07031 154.08105 164.0918 168.09082 178.10156 183.10254 193.11328 203.12402 208.125 218.13574 228.14648 232.14551 236.14453 245.14453 255.15527 261.14941 271.16016 281.1709 286.17188 295.17188 299.1709"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">All notiﬁcations should be delivered via</tspan></text>
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,62.685008,108.22105)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.010742 25.004883 35.015625 39.014648 43.013672 48.014648 58.025391 64.019531 69.020508 74.021484 84.032227 93.032227 98.033203 103.03418 113.04492 119.03906 124.04004 129.04102 142.04004 146.03906 151.04004 156.04102 166.05176 172.0459 177.04688 187.05762 193.05176 198.05273 203.05371 207.05273 216.05273 221.05371 231.06445 240.06445 245.06543 255.07617"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">email or text or twitter or tiktok or</tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,53.09296,128.33293)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.9990234 14.009766 23.009766 28.010742 38.021484 48.032227 54.026367 64.037109 79.03125 84.032227 94.042969 100.03711 105.03809 110.03906 120.0498 129.0498 139.06055 149.07129 159.08203 169.09277 178.09277 183.09375 193.10449 199.09863 204.09961 209.10059 222.09961 235.09863 240.09961 250.11035 256.10449 261.10547 266.10645 271.10742 276.1084"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">instagram or facebook or IRC or ....</tspan></text>
+  </g>
+</svg>

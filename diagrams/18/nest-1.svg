@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="366.72"
+   height="110.72"
+   viewBox="0 0 366.72 110.72"
+   sodipodi:docname="nest-1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1145.8333 V 343.1532 H 0 Z"
+         transform="scale(0.33512729)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1145.8333 V 340.16925 H 0 Z"
+         transform="matrix(0.33512729,0,0,0.33512729,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1145.8333 V 340.16925 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-34.859375,-51)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1145.8333 V 340.16925 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-23.75,-75)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="366.72"
+       height="110.72"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 384 V 115 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95486102)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 381 V 111 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95486102,0,0,0.95486102,0.47743051,0.47743051)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,33.286191,48.698398)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 15.556641 27.773438 33.330078 44.453125 55.576172 61.132812 72.255859 77.8125 90.029297 101.15234 106.70898 118.92578 126.70898 138.92578 144.48242 155.60547 166.72852 173.38867 178.94531 185.60547 197.82227 203.37891 215.5957 227.8125 240.0293 251.15234 258.93555 270.05859 276.71875 287.8418 300.05859"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Quick side project to understand</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,22.678176,71.615291)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 16.660156 28.876953 41.09375 53.310547 58.867188 69.990234 81.113281 86.669922 97.792969 110.00977 122.22656 127.7832 142.22656 153.34961 165.56641 176.68945 188.90625 201.12305 212.24609 224.46289 235.58594 246.70898 252.26562 257.82227 270.03906 275.5957 286.71875 297.8418 304.50195 310.05859 322.27539"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Modules and Dependency Injection</tspan></text>
+  </g>
+</svg>

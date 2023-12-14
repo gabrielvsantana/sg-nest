@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="318.72"
+   height="129.28"
+   viewBox="0 0 318.72 129.28"
+   sodipodi:docname="nest-15.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 995.83325 V 402.50745 H 0 Z"
+         transform="scale(0.33539753)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 995.83325 V 399.52591 H 0 Z"
+         transform="matrix(0.33539753,0,0,0.33539753,-0.50000001,-0.50000001)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 995.83325 V 399.52591 H 0 Z"
+         transform="matrix(0.33539417,0,0,0.33539417,-25.5,-35.999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 995.83325 V 399.52591 H 0 Z"
+         transform="matrix(0.33539753,0,0,0.33539753,-0.50000001,-0.50000001)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 995.83325 V 399.52591 H 0 Z"
+         transform="matrix(0.33539417,0,0,0.33539417,-13.953125,-106)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="318.72"
+       height="129.28"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 334 V 135 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95409167)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 331 V 61 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95409167,0,0,0.95409167,0.47704584,0.47704584)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95410121,0,0,0.95410121,24.329581,34.347643)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.7734375 14.21875 19.546875 29.320312 39.09375 48.867188 53.3125 62.210938 71.984375 86.210938 90.65625 95.984375 104.88281 114.65625 123.55469 132.45312 137.78125 146.67969 155.57812 164.47656 168.92188 177.82031 182.26562 191.16406 200.0625 208.96094 214.28906 223.1875 232.08594 236.53125 240.97656 250.75 259.64844 264.97656 274.75"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">github.com/typestack/class-validator</tspan></text>
+    <path
+       id="path6"
+       d="m 1,71 h 330 v 60 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95409167,0,0,0.95409167,0.47704584,0.47704584)"
+       clip-path="url(#clipPath7)" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.95410121,0,0,0.95410121,13.312693,101.13473)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.7734375 14.21875 19.546875 29.320312 39.09375 48.867188 53.3125 62.210938 71.984375 86.210938 90.65625 95.984375 104.88281 114.65625 123.55469 132.45312 137.78125 146.67969 155.57812 164.47656 168.92188 177.82031 182.26562 191.16406 200.0625 208.96094 214.28906 219.61719 225.84375 234.74219 244.51562 253.41406 258.74219 268.51562 274.74219 288.96875 297.86719"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">github.com/typestack/class-transformer</tspan></text>
+  </g>
+</svg>

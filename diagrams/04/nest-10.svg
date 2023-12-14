@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="384"
+   height="176"
+   viewBox="0 0 384 176"
+   sodipodi:docname="nest-10.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1200 V 549 H 0 Z"
+         transform="scale(0.33333333)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333333,0,0,0.33333333,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333,0,0,0.33333,-40.859375,-56)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333333,0,0,0.33333333,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333,0,0,0.33333,-82.59375,-106)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="scale(0.33333333)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="scale(0.33333333)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333333,0,0,0.33333333,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333,0,0,0.33333,-105.71875,-156)"
+         clip-rule="evenodd"
+         id="path15" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,0 H 1200 V 546 H 0 Z"
+         transform="matrix(0.33333,0,0,0.33333,-117.45312,-18)"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="384"
+       height="176"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 400 V 183 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95999996)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 18,31 H 398 V 71 H 18 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95999996,0,0,0.95999996,0.47999998,0.47999998)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.96000956,0,0,0.96000956,39.225391,53.760535)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.554688 20.453125 29.351562 32.90625 40.90625 45.351562 54.25 59.578125 64.023438 67.078125 71.523438 80.421875 83.976562 92.875 100.875 105.32031 114.21875 123.11719 126.67188 135.57031 138.625 143.07031 151.07031 154.625 163.52344 171.52344 179.52344 188.42188 196.42188 200.86719 204.42188 213.32031 217.76562 222.21094 231.10938 240.00781 244.45312 256.00781 260.45312 264.89844 276.45312 285.35156 294.25 298.69531 307.59375 311.14844 320.04688 328.94531"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Register 'Injectable' classes in the DI Container</tspan></text>
+    <path
+       id="path6"
+       d="m 18,81 h 380 v 40 H 18 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95999996,0,0,0.95999996,0.47999998,0.47999998)"
+       clip-path="url(#clipPath7)" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.96000956,0,0,0.96000956,79.29079,101.76101)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.554688 16.882812 25.78125 34.679688 39.125 48.023438 52.46875 61.367188 70.265625 74.710938 78.265625 87.164062 95.164062 99.609375 108.50781 117.40625 125.40625 134.30469 138.75 147.64844 152.09375 156.53906 165.4375 168.99219 172.54688 176.99219 184.99219 193.89062 202.78906 207.23438 212.5625 221.46094 225.01562 228.57031 237.46875 242.79688"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">Create an instance of all controllers</tspan></text>
+    <path
+       id="path9"
+       d="M 8,31 V 162.77"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95999996)"
+       clip-path="url(#clipPath10)" />
+    <path
+       id="path11"
+       d="m 8,168.77 -4,-8 4,2 4,-2 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95999996)"
+       clip-path="url(#clipPath12)" />
+    <path
+       id="path13"
+       d="m 18,131 h 380 v 40 H 18 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95999996,0,0,0.95999996,0.47999998,0.47999998)"
+       clip-path="url(#clipPath14)" />
+    <text
+       id="text14"
+       xml:space="preserve"
+       transform="matrix(0.96000956,0,0,0.96000956,101.49101,149.76149)"
+       clip-path="url(#clipPath15)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.8984375 17.796875 26.695312 34.695312 39.140625 48.039062 52.484375 56.929688 68.484375 77.382812 86.28125 90.726562 95.171875 104.07031 112.96875 120.96875 129.86719 134.3125 142.3125 151.21094 160.10938 164.55469 169.88281 178.78125 182.33594 185.89062 194.78906 200.11719"
+         y="0"
+         sodipodi:role="line"
+         id="tspan14">Look at what each controller </tspan></text>
+    <text
+       id="text15"
+       xml:space="preserve"
+       transform="matrix(0.96000956,0,0,0.96000956,112.75612,17.280172)"
+       clip-path="url(#clipPath16)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.999023 23.009766 33.020508 39.014648 44.015625 56.021484 62.015625 72.026367 79.03125 85.025391 96.020508 107.01562 112.0166 124.02246 131.02734 142.02246 152.0332 162.04395 172.05469"
+         y="0"
+         sodipodi:role="line"
+         id="tspan15">Nest Startup Process</tspan></text>
+  </g>
+</svg>
